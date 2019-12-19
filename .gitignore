@@ -1,0 +1,9 @@
+env.py
+*.sqlite3
+__pycache__/
+*.pyc
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+*~
